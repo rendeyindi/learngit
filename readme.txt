@@ -6,3 +6,4 @@ Creating a new branch is quick.
 But what did I do?
 Creating a new branch is quick and simple.
 I still want to say AMD YES!
+AMD YES!
