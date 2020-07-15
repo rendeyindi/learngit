@@ -9,3 +9,4 @@ I still want to say AMD YES!
 AMD YES!
 from my surface pro3
 from my Macbook Pro
+It is so hot
